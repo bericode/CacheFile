@@ -112,8 +112,6 @@ class Cache
      *
      * Удалить все файлы в директории.
      * Файлы должны быть доступны для записи.
-     * If the second parameter is set to TRUE, any directories contained
-     * within the supplied base directory will be nuked as well.
      *
      * @param	string	$path		Путь к файлу
      * @param	bool	$del_dir	Удалять все каталоги
